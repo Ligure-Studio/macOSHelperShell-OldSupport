@@ -4,16 +4,17 @@
 </p>
 <h1 align="center">MacOSHelperShell</h1>
 <div align="center">   
-  <img src="https://img.shields.io/github/stars/Ligure-Studio/MacOSHelperShell?label=Stars" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/forks/Ligure-Studio/MacOSHelperShell?label=Forks" alt="GitHub Forks"/> 
-  <a href="https://github.com/Ligure-Studio/MacOSHelperShell/releases" target="_blank">
+  <img src="https://img.shields.io/github/stars/Ligure-Studio/MacOSHelperShell-OldSupport?label=Stars" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/forks/Ligure-Studio/MacOSHelperShell-OldSupport?label=Forks" alt="GitHub Forks"/> 
+  <a href="https://github.com/Ligure-Studio/MacOSHelperShell-OldSupport/releases" target="_blank">
     <img src="https://img.shields.io/github/v/release/Ligure-Studio/MacOSHelperShell?display_name=tag" alt="GitHub Release"/></a>
 </div>
 
 
 
 
-一款简单易用的macOS帮助脚本，可以便捷的实现一些功能。
+
+一款简单易用的macOS帮助脚本，可以便捷的实现一些功能。这是老版本MacOS支持专版，功能会与普通版略有不同。
 
 该脚本由[明燊](https://github.com/FANChenjia)、[小叶](https://github.com/yeenjie123456)、[Jerry](https://github.com/Jerry-XU1010)共同开发和维护，非常好用，具体怎么好用你用了就知道了。
 
